@@ -3,7 +3,7 @@
 
 ![](https://github.com/Chaolei98/Heterogeneous-Convolution/blob/main/overview.png)
 
-### Here shows the model architecture and the simplfied TRAIN/VALIDATION process on PAMAP2 dataset. Experiments on other datasets are just diverse hyper-parameters as examoles. If there are mistakes, welcome to point out!
+### Here shows the model architecture and the simplfied TRAIN/VALIDATION process on PAMAP2 dataset. Experiments on other datasets are just diverse hyper-parameters as examples. If there are mistakes, welcome to point out!
 
 ## Requirements in this work
 ● Python 3.8.10  
