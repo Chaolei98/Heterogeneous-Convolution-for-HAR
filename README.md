@@ -12,7 +12,7 @@
 ● Scikit-learn  
 
 ## Train
-Get required dataset from UCI Machine Learning Repository(http://archive.ics.uci.edu/ml/index.php), do data pre-processing by sliding window strategy and split the data into different sets
+Get required dataset from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php), do data pre-processing by sliding window strategy and split the data into different sets
 ```
 $ cd Heterogeneous-Convolution
 $ python main.py
